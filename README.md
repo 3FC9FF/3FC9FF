@@ -12,3 +12,5 @@
 <p align="center">
     <img src="https://skillicons.dev/icons?i=py,ts,js,fastapi,go"/>
 </p>
+
+![Footer](./footer.png)
